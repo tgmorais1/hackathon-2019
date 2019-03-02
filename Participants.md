@@ -8,7 +8,7 @@
 * [Matteo Lissandrini](mailto:matteo@cs.aau.dk) | [Github: kuzeko](https://github.com/kuzeko)  (Univ. Aalborg)
 * Stefano Merciai (2.0)
 * Tom Millross | [Github: tmillross](https://github.com/tmillross) (CML, Leiden, MSc. grad)
-* [Tiago Morais](mailto:tiago.g.morais@tecnico.ulisboa.pt) (Univ. Lisbon)
+* [Tiago Morais](mailto:tiago.g.morais@tecnico.ulisboa.pt) (Univ. Lisbon) | [Github:tgmorais1](https://github.com/tgmorais1)
 * [Chris Mutel](mailto:chris.mutel@bonsai.uno) | [Github: cmutel](https://github.com/cmutel) (BONSAI)
 * [Tomas Navarrete](mailto:tomas.navarrete@list.lu) | [Github: tngTUDOR](https://github.com/tngTUDOR) (LIST)
 * [Rutger Schurgers](mailto:Schurgers@pre-sustainability.com) (PRé)
